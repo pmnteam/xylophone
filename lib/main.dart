@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Xylophone',
       theme: ThemeData(
+        // User material 3.
         useMaterial3: true,
       ),
       debugShowCheckedModeBanner: false,
